@@ -1,0 +1,17 @@
+<table class="table table-striped table-bordered mt-3 table-responsive-sm">
+  <thead class="thead-dark">
+      <tr>
+          <th scope="col">Nombre</th>
+          <th scope="col">CIF</th>
+          <th scope="col">Dirección</th>
+          <th scope="col">Grupo</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr *ngFor="let client of data">
+          <td>{{client.name}}</td>
+          <td>{{client.CIF}}</td>
+          <td>{{client.direction}}</td>
+          <td>{{client.group}}</td>
+      </tr>
+</table>
