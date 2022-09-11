@@ -10,6 +10,6 @@
 
 * Ejercicio 2:
  
-   https://t35-ex1.d3p9ez3ico0d9b.amplifyapp.com/
+  https://t35-ex2.d2rwin7xvbph9.amplifyapp.com/
         
 
